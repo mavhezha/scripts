@@ -11,6 +11,7 @@ Bash scripts, organized by category.
 | Script | Category | Description |
 |---|---|---|
 | [`recon/subdomain_enum.sh`](./recon/subdomain_enum.sh) | recon | Passive subdomain enumeration from multiple sources, with optional live-host resolution |
+| [`recon/port_scan.sh`](./recon/port_scan.sh) | recon | Nmap wrapper: full-port sweep, then targeted service/version detection on open ports |
 
 ## Requirements
 
